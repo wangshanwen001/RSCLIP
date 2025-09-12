@@ -1,0 +1,32 @@
+cfg_loveda
+aAcc: 56.01
+mIoU: 38.02
+mAcc: 57.5
+VIT: ViT-B/16
+CLIP: CLIP
+MODEL: RSCLIP
+Dataset: LoveDADataset
+cfg_potsdam
+aAcc: 69.93
+mIoU: 47.4
+mAcc: 64.68
+VIT: ViT-B/16
+CLIP: CLIP
+MODEL: RSCLIP
+Dataset: PotsdamDataset
+cfg_vaihingen
+aAcc: 54.89
+mIoU: 28.91
+mAcc: 57.31
+VIT: ViT-B/16
+CLIP: CLIP
+MODEL: RSCLIP
+Dataset: ISPRSDataset
+cfg_udd5
+aAcc: 75.66
+mIoU: 50.84
+mAcc: 65.79
+VIT: ViT-B/16
+CLIP: CLIP
+MODEL: RSCLIP
+Dataset: UDD5Dataset
