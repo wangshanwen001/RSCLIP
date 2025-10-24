@@ -1,6 +1,12 @@
 # RSCLIP
 The code implementation of the RSCLIP.
 
+### Environment
+---
+```
+pip install -r requirements.txt
+```
+
 ### Demo
 ---
 ```
