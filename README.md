@@ -1,5 +1,6 @@
 # RSCLIP
 The code implementation of the RSCLIP.
+![rsclip](docs/rsclip.png)
 
 ### Environment
 ---
