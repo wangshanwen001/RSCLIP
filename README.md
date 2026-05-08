@@ -26,13 +26,14 @@ python3 t_test.py
 ---
 If you find it useful, please consider citing:
 ```
-@ARTICLE{wangrsclip,
-   author={Wang, Shanwen and Sun, Xin and Hong, Danfeng and Zhu, Xiaoxiang},
-  title = {RSCLIP for Training-Free Open-Vocabulary Remote Sensing Image Semantic Segmentation},
-  howpublished = {TechRxiv},
-  month = {September},
-  year = {2025},
-  doi = {10.36227/techrxiv.175790902.28615776/v1},
-  url = {https://www.techrxiv.org/doi/10.36227/techrxiv.175790902.28615776/v1}
-}
+@ARTICLE{11502025,
+  author={Wang, Shanwen and Sun, Xin and Han, Jungong and Zhu, Xiao Xiang},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={RSCLIP for Training-Free Open-Vocabulary Remote Sensing Image Semantic Segmentation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Circuits and systems;Filtering;Spatial filters;Filters;Pixel;Videos;Location awareness;Mobile communication;Video equipment;Communication systems;Open-vocabulary semantic segmentation;Remote sensing;Vision-language model;Training-Free},
+  doi={10.1109/JSTARS.2026.3688939}}
 ```
