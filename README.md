@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 ### Demo
 ---
+Please run the following script to start the demo.
 ```
 python3 demo_rsclip.py
 python3 demo_mask.py
@@ -18,6 +19,7 @@ python3 demo_mask.py
 
 ### Evaluation
 ---
+Please run the following script to obtain the evaluation metrics.
 ```
 python3 eval.py
 python3 t_test.py
