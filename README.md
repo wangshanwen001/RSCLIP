@@ -22,6 +22,9 @@ python3 eval.py
 python3 t_test.py
 ```
 
+### Acknowledgments
+Our work is based on [SegEarth‑OV](https://github.com/likyoo/SegEarth-OV). We thank the authors for their excellent open‑source contributions.
+
 ### Citation
 ---
 If you find it useful, please consider citing:
