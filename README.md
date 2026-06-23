@@ -4,6 +4,7 @@ The code implementation of the RSCLIP.
 
 ### Environment
 ---
+Please run the following script to install the SemiEarth runtime environment.
 ```
 pip install -r requirements.txt
 ```
