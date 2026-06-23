@@ -25,9 +25,6 @@ python3 eval.py
 python3 t_test.py
 ```
 
-### Acknowledgments
-Our work is based on [SegEarth‑OV](https://github.com/likyoo/SegEarth-OV). We thank the authors for their excellent open‑source contributions.
-
 ### Citation
 ---
 If you find it useful, please consider citing:
@@ -43,3 +40,6 @@ If you find it useful, please consider citing:
   keywords={Circuits and systems;Filtering;Spatial filters;Filters;Pixel;Videos;Location awareness;Mobile communication;Video equipment;Communication systems;Open-vocabulary semantic segmentation;Remote sensing;Vision-language model;Training-Free},
   doi={10.1109/JSTARS.2026.3688939}}
 ```
+
+### Acknowledgments
+Our work is based on [SegEarth‑OV](https://github.com/likyoo/SegEarth-OV). We thank the authors for their excellent open‑source contributions.
